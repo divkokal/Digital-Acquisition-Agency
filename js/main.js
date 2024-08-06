@@ -13,7 +13,7 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'June 01, 2024 00:00:00',
+        finalDate : 'January 01, 2025 00:00:00',
         // MailChimp URL
         mailChimpURL : 'https://digitalacquisitionagency.us18.list-manage.com/subscribe/post?u=c36bb09c62b0b3626c8007ff9&amp;id=34a5ef6cec&amp;f_id=008511e1f0' 
 
